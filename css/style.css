@@ -1,0 +1,13 @@
+#banner {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    display: block;
+}
+.ortala {
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
